@@ -53,6 +53,7 @@
 
 ### 🔍 [Deep Research Engine](https://github.com/Aaravchaturvedi/deep-research-engine)
 An intelligent research tool leveraging **Agentic AI and RAG (Retrieval-Augmented Generation)**. It autonomously gathers, synthesizes, and analyzes complex data from multiple sources to provide highly accurate and context-aware insights.
+A full-stack, production-grade AI assistant that goes beyond standard chat. Ask a question, and an 8-agent LangGraph pipeline autonomously searches the live web, scrapes & embeds documents via Qdrant, verifies facts, and streams a fully cited Markdown report to your UI in real-time. Built with React, TypeScript, Node.js, and Docker.
 
 ### 📡 [Signal - Web Monitor & Alert System](https://github.com/Aaravchaturvedi/Signal)
 A real-time website change-detection utility. It allows users to track specific DOM elements or API endpoints (e.g., price drops on e-commerce items) and sends instant automated notifications when conditions are met. Built with a focus on efficient background polling, cron jobs, and rate-limiting.
