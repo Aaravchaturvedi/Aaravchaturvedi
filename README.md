@@ -51,13 +51,13 @@
 
 ## 🏆 Featured Projects
 
-### 🔍 [Deep Research Engine](#) 
+### 🔍 [Deep Research Engine](https://github.com/Aaravchaturvedi/deep-research-engine)
 An intelligent research tool leveraging **Agentic AI and RAG (Retrieval-Augmented Generation)**. It autonomously gathers, synthesizes, and analyzes complex data from multiple sources to provide highly accurate and context-aware insights.
 
-### 📡 [Signal - Web Monitor & Alert System](#)
+### 📡 [Signal - Web Monitor & Alert System](https://github.com/Aaravchaturvedi/Signal)
 A real-time website change-detection utility. It allows users to track specific DOM elements or API endpoints (e.g., price drops on e-commerce items) and sends instant automated notifications when conditions are met. Built with a focus on efficient background polling, cron jobs, and rate-limiting.
 
-### 💬 [JustChat](#) 
+### 💬 [JustChat](https://github.com/Aaravchaturvedi/realTime_Chat_App)
 A scalable real-time messaging application. Features secure profile management, seamless media handling using Cloudinary, and an optimized backend architecture to handle instant message delivery efficiently.
 ---
 
