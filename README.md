@@ -58,8 +58,8 @@ A full-stack, production-grade AI assistant that goes beyond standard chat. Ask 
 ### 📡 [Signal - Web Monitor & Alert System](https://github.com/Aaravchaturvedi/Signal)
 A real-time website change-detection utility. It allows users to track specific DOM elements or API endpoints (e.g., price drops on e-commerce items) and sends instant automated notifications when conditions are met. Built with a focus on efficient background polling, cron jobs, and rate-limiting.
 
-### 💬 [JustChat](https://github.com/Aaravchaturvedi/realTime_Chat_App)
-A scalable real-time messaging application. Features secure profile management, seamless media handling using Cloudinary, and an optimized backend architecture to handle instant message delivery efficiently.
+### 🚙 [ParkPilot](https://github.com/Aaravchaturvedi/ParkPilot)
+A dual-sided urban mobility and peer-to-peer parking platform. Engineered as a TypeScript monorepo, it leverages an event-driven Node.js backend, Redis GEO indexing, and WebSockets to deliver zero-latency state sync, race-safe atomic driver dispatch, and secure dual-OTP trip metering.
 
 ---
 
