@@ -9,9 +9,9 @@
 
 ##  About Me
 
--  **Core Focus:** Advanced Backend Engineering, System Design, and full-stack MERN development.
+-  **Core Focus:** Advanced Backend Engineering, System Design, and full-stack development (MERN, React Native).
 -  **AI & Data:** Building RAG pipelines, working with Agentic AI, and integrating LLMs into production.
--  **Architecture:** Designing systems with Rate Limiters, Load Balancers, and strong Computer Networks fundamentals.
+-  **Architecture:** Designing systems with Rate Limiters, Load Balancers, WebSockets, and Monorepos.
 -  **Infrastructure:** Containerization and orchestration using Docker and Kubernetes, alongside Nginx reverse proxies.
 
 ---
@@ -22,17 +22,22 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=white)
 
 **Advanced Backend & APIs:**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=socket.io&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 **Databases & Caching:**
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL (Neon)](https://img.shields.io/badge/-PostgreSQL_(Neon)-336791?style=flat&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Qdrant (Vector DB)](https://img.shields.io/badge/-Qdrant-1A1A1A?style=flat&logo=database&logoColor=white)
 
 **Artificial Intelligence & LLMs:**
 ![Gen AI](https://img.shields.io/badge/-Gen%20AI-000000?style=flat&logo=openai&logoColor=white)
@@ -44,6 +49,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Monorepos](https://img.shields.io/badge/-Monorepos-100000?style=flat)
 ![Load Balancers & Rate Limiting](https://img.shields.io/badge/-Load%20Balancers%20%26%20Rate%20Limiting-100000?style=flat)
 ![Computer Networks](https://img.shields.io/badge/-Computer%20Networks-02569B?style=flat)
 
@@ -62,7 +68,7 @@ A dual-sided urban mobility and peer-to-peer parking platform. Engineered as a T
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/aarav-chaturvedi-b065a0379/" target="_blank">
