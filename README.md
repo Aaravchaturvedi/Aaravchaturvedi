@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Aarav Chaturvedi 👋</h1>
+<h1 align="center">Hi there, I'm Aarav Chaturvedi </h1>
 <h3 align="center">Advanced Backend Engineer | System Design Enthusiast | AI & LLM Developer</h3>
 
 <p align="center">
@@ -7,16 +7,16 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 💻 **Core Focus:** Advanced Backend Engineering, System Design, and full-stack MERN development.
-- 🧠 **AI & Data:** Building RAG pipelines, working with Agentic AI, and integrating LLMs into production.
-- 🏗️ **Architecture:** Designing systems with Rate Limiters, Load Balancers, and strong Computer Networks fundamentals.
-- ⚙️ **Infrastructure:** Containerization and orchestration using Docker and Kubernetes, alongside Nginx reverse proxies.
+-  **Core Focus:** Advanced Backend Engineering, System Design, and full-stack MERN development.
+-  **AI & Data:** Building RAG pipelines, working with Agentic AI, and integrating LLMs into production.
+-  **Architecture:** Designing systems with Rate Limiters, Load Balancers, and strong Computer Networks fundamentals.
+-  **Infrastructure:** Containerization and orchestration using Docker and Kubernetes, alongside Nginx reverse proxies.
 
 ---
 
-## 💻 Tech Stack & Tools
+##  Tech Stack & Tools
 
 **Languages & Frontend:**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -49,16 +49,15 @@
 
 ---
 
-## 🏆 Featured Projects
+##  Featured Projects
 
-### 🔍 [Deep Research Engine](https://github.com/Aaravchaturvedi/deep-research-engine)
-An intelligent research tool leveraging **Agentic AI and RAG (Retrieval-Augmented Generation)**. It autonomously gathers, synthesizes, and analyzes complex data from multiple sources to provide highly accurate and context-aware insights.
-A full-stack, production-grade AI assistant that goes beyond standard chat. Ask a question, and an 8-agent LangGraph pipeline autonomously searches the live web, scrapes & embeds documents via Qdrant, verifies facts, and streams a fully cited Markdown report to your UI in real-time. Built with React, TypeScript, Node.js, and Docker.
+###  [Deep Research Engine](https://github.com/Aaravchaturvedi/deep-research-engine)
+A full-stack, production-grade AI assistant leveraging **Agentic AI and RAG**. Ask a question, and an 8-agent LangGraph pipeline autonomously searches the live web, scrapes & embeds documents via Qdrant, verifies facts, and streams a fully cited Markdown report to your UI in real-time. Built with React, TypeScript, Node.js, and Docker.
 
-### 📡 [Signal - Web Monitor & Alert System](https://github.com/Aaravchaturvedi/Signal)
+###  [Signal - Web Monitor & Alert System](https://github.com/Aaravchaturvedi/Signal)
 A real-time website change-detection utility. It allows users to track specific DOM elements or API endpoints (e.g., price drops on e-commerce items) and sends instant automated notifications when conditions are met. Built with a focus on efficient background polling, cron jobs, and rate-limiting.
 
-### 🚙 [ParkPilot](https://github.com/Aaravchaturvedi/ParkPilot)
+###  [ParkPilot](https://github.com/Aaravchaturvedi/ParkPilot)
 A dual-sided urban mobility and peer-to-peer parking platform. Engineered as a TypeScript monorepo, it leverages an event-driven Node.js backend, Redis GEO indexing, and WebSockets to deliver zero-latency state sync, race-safe atomic driver dispatch, and secure dual-OTP trip metering.
 
 ---
